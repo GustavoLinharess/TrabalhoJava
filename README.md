@@ -1,0 +1,3 @@
+
+Projeto Netflix Simples em Java
+Este é um projeto simples em Java que simula algumas funcionalidades básicas de um serviço de streaming, semelhante à Netflix. O projeto é orientado a objetos e inclui recursos como busca de filmes, filtragem por gêneros, cadastro de novos filmes e salvamento das informações em um arquivo TXT.
